@@ -14,7 +14,6 @@ const App = () => {
       <IconComponent/>
       <About/>
       <Footer/>
-
     </div>
   );
 }
